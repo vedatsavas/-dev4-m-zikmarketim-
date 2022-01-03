@@ -1,0 +1,44 @@
+/********** Genel Tanımlamalar **********/
+body {
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+h1 {
+    color:#961212;
+}
+h2 {
+    color: #7b3cf8;
+}
+h3 {
+    color: #c9a026;
+}
+/********** Navbar **********/
+.ml15{
+    margin-left: 15px;
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+    
+}
+.navbarul{
+    list-style: none;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+.navbarli{
+    display: inline;
+}
+/********** İndex-page **********/
+.indexul {
+    list-style-position: inside;
+}
+
+/********** About-us **********/
+.left-alignment {
+    text-align: left;
+}
+.ol-product {
+    list-style-position: inside;
+}
